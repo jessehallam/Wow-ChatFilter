@@ -1,0 +1,18 @@
+## Interface: 80200
+## Title: Gina's Chat Filter
+## Author: Jaliborc (João Cardoso)
+## Notes: Single window display for your void storage
+## SavedVariables: GinasChatFilter
+## Version: 8.2.4
+
+Libs\AceAddon-3.0\AceAddon-3.0.xml
+Libs\AceConfig-3.0\AceConfig-3.0.xml
+Libs\AceConsole-3.0\AceConsole-3.0.xml
+Libs\AceDB-3.0\AceDB-3.0.xml
+Libs\AceEvent-3.0\AceEvent-3.0.xml
+libs\LibStub\LibStub.lua
+libs\CallbackHandler-1.0\CallbackHandler-1.0.lua
+libs\LibDataBroker-1.1\LibDataBroker-1.1.lua
+libs\LibDBIcon-1.0\LibDBIcon-1.0.lua
+
+main.lua
